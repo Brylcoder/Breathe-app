@@ -4,4 +4,4 @@
 
 App using HTML, CSS and JavaScript.
 
-Live Demo https://dpshubham.github.io/Breathe-app/index.html
+Live Demo https://dpshubham.github.io/Breathe-app/
